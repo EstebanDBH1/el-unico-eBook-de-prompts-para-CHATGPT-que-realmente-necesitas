@@ -40,7 +40,7 @@ const Index = () => {
       <footer className="py-12 bg-card border-t border-border">
         <div className="container px-4 mx-auto text-center">
           <p className="text-muted-foreground">
-            © 2025 Prompts ChatGPT. Todos los derechos reservados.
+            © 2025 Prompts ChatGPT. Todos los derechos reservados. xd
           </p>
           <p className="text-sm text-muted-foreground mt-2">
             🔒 Pago seguro • Garantía de satisfacción 30 días
